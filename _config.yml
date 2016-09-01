@@ -1,4 +1,3 @@
-layout_spectrum: 0.27236413047648966
 typography_spectrum: 0.6890586237423122
 color:
   brandStrength: 0.7617579840589315
@@ -6,9 +5,11 @@ color:
   saturation: 0.4538696256931871
   rhythmicContrast: 0.19481852930039167
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.27236413047648966
 name: Matt Clay Golf
+title: Golf Rocks!
