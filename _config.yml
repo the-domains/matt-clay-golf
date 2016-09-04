@@ -1,3 +1,4 @@
+layout_spectrum: 0.27236413047648966
 typography_spectrum: 0.6890586237423122
 color:
   brandStrength: 0.7617579840589315
@@ -10,7 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.27236413047648966
 name: Matt Clay Golf
-title: Golf Rocks!
-description: Making golf fun for young athletes
